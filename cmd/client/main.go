@@ -17,8 +17,8 @@ import (
 
 	_ "github.com/joho/godotenv/autoload"
 
-	kafkaexample "github.com/friendsofgo/kafka-example/pkg"
-	"github.com/friendsofgo/kafka-example/pkg/kafka"
+	kafkaexample "github.com/vincentconace/chat-kafka-golang/pkg"
+	"github.com/vincentconace/chat-kafka-golang/pkg/kafka"
 )
 
 var user string
